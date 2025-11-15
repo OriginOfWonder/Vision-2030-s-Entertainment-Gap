@@ -1,0 +1,125 @@
+{
+  "@graph": [
+    {
+      "@id": "https://originofwonder.com/blog/vision-2030-s-entertainment-gap-why-domes-beat-theme-parks#article",
+      "@type": "BlogPosting",
+      "image": "https://originofwonder.com/images/vision-2030-entertainment-gap.jpg",
+      "author": {
+        "name": "Editorial Team",
+        "@type": "Person"
+      },
+      "headline": "Vision 2030's Entertainment Gap: Why Domes Beat Theme Parks",
+      "publisher": {
+        "url": "https://originofwonder.com",
+        "logo": {
+          "url": "https://originofwonder.com/images/logo.png",
+          "@type": "ImageObject"
+        },
+        "name": "Origin of Wonder",
+        "@type": "Organization",
+        "sameAs": [
+          "https://www.facebook.com/originofwonder",
+          "https://twitter.com/originofwonder",
+          "https://www.instagram.com/originofwonder"
+        ]
+      },
+      "wordCount": 1029,
+      "articleBody": "## Introduction: The Entertainment Gap in Vision 2030 Tourism\n\nAs Saudi Arabia embarks on its Vision 2030 initiative, the entertainment landscape is set for a transformative shift. With plans for over...",
+      "description": "Discover why immersive domes outperform theme parks in Saudi Arabia's Vision 2030, aiming for 600+ new attractions and 450,000 jobs. Explore the future today.",
+      "readingTime": "PT6M",
+      "dateModified": "2025-11-15T12:43:21.380Z",
+      "datePublished": "2025-11-15T12:43:21.380Z"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "name": "What are the main goals of Vision 2030 for tourism in Saudi Arabia?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Vision 2030 aims to increase household spending on recreation from 2.9% to 6% by 2030, enhancing the...",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "How do domes offer advantages over traditional theme parks?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Domes provide a futuristic entertainment experience that optimizes urban space, making them ideal for...",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "What types of attractions are planned under Vision 2030?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "The initiative plans to introduce over 600 new attractions, focusing on diverse experiences that reflect...",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "How will the entertainment shift impact Saudi Arabia's economy?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "The increase in entertainment options is expected to boost tourism, create jobs, and stimulate local...",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Are domes environmentally friendly compared to theme parks?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, many dome structures are designed with sustainability in mind, using materials and technologies...",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://originofwonder.com",
+      "logo": {
+        "url": "https://originofwonder.com/images/logo.png",
+        "@type": "ImageObject"
+      },
+      "name": "Origin of Wonder",
+      "@type": "Organization",
+      "sameAs": [
+        "https://www.facebook.com/originofwonder",
+        "https://twitter.com/originofwonder",
+        "https://www.instagram.com/originofwonder"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "item": "https://originofwonder.com",
+          "name": "Home",
+          "@type": "ListItem",
+          "position": 1
+        },
+        {
+          "item": "https://originofwonder.com/blog",
+          "name": "Blog",
+          "@type": "ListItem",
+          "position": 2
+        },
+        {
+          "item": "https://originofwonder.com/blog/vision-2030-s-entertainment-gap-why-domes-beat-theme-parks",
+          "name": "Vision 2030's Entertainment Gap: Why Domes Beat Theme Parks",
+          "@type": "ListItem",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "@id": "https://originofwonder.com/blog/vision-2030-s-entertainment-gap-why-domes-beat-theme-parks#webpage",
+      "url": "https://originofwonder.com/blog/vision-2030-s-entertainment-gap-why-domes-beat-theme-parks",
+      "@type": "WebPage",
+      "mainEntity": {
+        "@id": "https://originofwonder.com/blog/vision-2030-s-entertainment-gap-why-domes-beat-theme-parks#article"
+      }
+    }
+  ],
+  "@context": "https://schema.org"
+}
